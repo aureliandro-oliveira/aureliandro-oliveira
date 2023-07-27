@@ -1,4 +1,4 @@
-### Olá seja muito bem vindo ao meu perfil 👋
+### Olá seja muito bem vindo(a) ao meu perfil 👋
 
 <div>
   <a href="https://github.com/aureliandro-oliveira">
