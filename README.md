@@ -1,5 +1,5 @@
 ### Olá seja muito bem vindo(a) ao meu perfil 👋
-![d62537a4-5ca9-43ce-80e6-586b4f7b7958](https://github.com/aureliandro-oliveira/aureliandro-oliveira/assets/140663518/ccb7ead4-95b0-4d4b-8b6f-72c3a882bd78)
+![d62537a4-5ca9-43ce-80e6-586b4f7b7958](https://github.com/aureliandro-oliveira/aureliandro-oliveira/assets/140663518/ccb7ead4-95b0-4d4b-8b6f-72c3a882bd78 width="200")
 
 <div>
   <a href="https://github.com/aureliandro-oliveira">
