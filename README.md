@@ -1,5 +1,5 @@
 ### Olá seja muito bem vindo(a) ao meu perfil 👋
-![minha-imagem-do-perfil](https://github.com/aureliandro-oliveira/aureliandro-oliveira/assets/140663518/cb482ebf-acf6-47b0-ba00-8a6b9b14ccbd)
+
 
 <div>
   <a href="https://github.com/aureliandro-oliveira">
