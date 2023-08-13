@@ -1,4 +1,5 @@
 ### Olá seja muito bem vindo(a) ao meu perfil 👋
+![WhatsApp Image 2023-08-13 at 11 53 29aures width="200"](https://github.com/aureliandro-oliveira/aureliandro-oliveira/assets/140663518/ad1c213e-a595-409b-adea-398785f42626)
 
 <div>
   <a href="https://github.com/aureliandro-oliveira">
