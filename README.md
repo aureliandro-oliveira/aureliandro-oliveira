@@ -1,8 +1,5 @@
 ### Olá seja muito bem vindo(a) ao meu perfil 👋
-
-<div align="center">
-<img src="https://github.com/aureliandro-oliveira/aureliandro-oliveira/assets/140663518/6a1001ed-10ae-48c8-82b1-fef43a53aa60)"width="300px" />
-</div>
+![aures-perfil](https://github.com/aureliandro-oliveira/aureliandro-oliveira/assets/140663518/6a1001ed-10ae-48c8-82b1-fef43a53aa60)
 
 <div>
   <a href="https://github.com/aureliandro-oliveira">
