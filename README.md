@@ -1,5 +1,5 @@
 ### Olá seja muito bem vindo(a) ao meu perfil 👋
-https://web.whatsapp.com/
+
 <img src="https://web.whatsapp.com/" width="200" />
 <div>
   <a href="https://github.com/aureliandro-oliveira">
