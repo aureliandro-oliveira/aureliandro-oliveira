@@ -6,7 +6,7 @@
 
 <span align="center">
   
-![perfil-do-Areliandro](https://github.com/aureliandro-oliveira/aureliandro-oliveira/assets/140663518/41c06a97-8a0b-4a8b-bc45-fd97e457e941)
+![perfil-do-aureliandro](https://github.com/aureliandro-oliveira/aureliandro-oliveira/assets/140663518/008a8a92-1197-4364-b805-b2692793344f)
 
 <div>
   <a href="https://github.com/aureliandro-oliveira">
