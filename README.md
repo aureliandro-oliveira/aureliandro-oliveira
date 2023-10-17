@@ -5,6 +5,8 @@
 </span>
 
 <span align="center">
+
+![octocat-1697508777314](https://github.com/aureliandro-oliveira/aureliandro-oliveira/assets/140663518/35392510-3738-4321-9cff-458753dd716a)
   
 ![perfil-do-aureliandro](https://github.com/aureliandro-oliveira/aureliandro-oliveira/assets/140663518/008a8a92-1197-4364-b805-b2692793344f)
 
