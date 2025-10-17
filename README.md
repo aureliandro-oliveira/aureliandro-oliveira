@@ -27,4 +27,4 @@
 
 </div>
  
-![Security Knight Ocat](https://octodex.github.com/images/securityknightocat.png)
+![Security Knight Ocat](https://octodex.github.com/images/securityknightocat.svg)
