@@ -27,4 +27,4 @@
 
 </div>
  
-![Security Knight Ocat](https://octodex.github.com/images/securityknightocat.svg)
+![Security Knight Ocat](https://www.site24x7.com/pt/tools/imagem-para-dados-uri.html)
