@@ -27,4 +27,4 @@
 
 </div>
  
-![snake gif](https://github.com/aureliandro-oliveira/aureliandro-oliveira/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/aureliandro-oliveira/aureliandro-oliveira/output/github-contribution-grid-snake.svg)
