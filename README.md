@@ -27,4 +27,4 @@
 
 </div>
  
-![Snack gif](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif)
+![Security Knight Ocat](https://octodex.github.com/images/securityknightocat.png)
